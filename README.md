@@ -14,8 +14,8 @@ Full-stack developer and architect specializing in the web development mostly us
 <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" alt="jasmine logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="nginx logo" width="50" height="50" />
----
 
+---
 Find me on: 
 
 <a href="https://www.linkedin.com/in/michaeljwisniewski/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo icon" width="50" height="50" /></a> <a href="https://twitter.com/mikejwis" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter logo icon" width="50" height="50" /></a>
