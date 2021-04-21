@@ -1,5 +1,5 @@
 
-Full-stack developer and architect specializing in the web development mostly using the JAM stack. 
+Full-stack developer and architect specializing in web development mostly using the JAM stack. 
 
 
 ---
